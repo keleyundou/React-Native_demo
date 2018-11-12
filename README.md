@@ -18,4 +18,7 @@
 |![goodsList](https://github.com/manofit/ScreenPics/blob/master/PicShow%26GoodsLIst/goodsList.png)|![PicShow](https://github.com/manofit/ScreenPics/blob/master/PicShow%26GoodsLIst/pic_show.gif)|
 
 
+Blog: https://www.jianshu.com/p/16a254288495
+
+
 
